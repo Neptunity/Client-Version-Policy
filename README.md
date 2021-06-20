@@ -1,5 +1,6 @@
 Recommended versions:
   1.16.5 and above
+  
 Less recommended versions:
   1.16.4
   1.16.3
@@ -17,6 +18,7 @@ Less recommended versions:
   1.13.2
   1.13.1
   1.13
+  
 Not recommended versions:
   1.12.2
   1.12.1
@@ -51,6 +53,7 @@ Not recommended versions:
   1.7.4
   1.7.3
   1.7.2
+  
 Unsupported versions:
   Under 1.7.2
 
