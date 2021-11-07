@@ -70,5 +70,9 @@ Unsupported versions - You can not join with these versions at all!
 
 Automatic block replacement - In older versions, when one block is not available the game will replace that block in a way that is only visible to the older client. The experience for people with "Recommended versions" will be completely unchanged. This way is good because no one would have to see the ugly unknown texture block.
 
+Disclaimer:
+In versions under 1.16.5 and especially the ones in the "Not recommended versions" there are many issues with holograms etc. Don't ask for help about these because they will NOT be fixed. Thanks for understanding! 
+
 We can change this at any time!
 Changes applied on 𝐉𝐮𝐧𝐞 𝟗, 𝟐𝟎𝟐𝟏.
+Last update: 𝐍𝐨𝐯𝐞𝐦𝐛𝐞𝐫 𝟕, 𝟐𝟎𝟐𝟏.
