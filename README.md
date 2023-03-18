@@ -34,28 +34,9 @@ Not recommended versions:
   1.9.2,
   1.9.1,
   1.9,
-  1.8.9,
-  1.8.8,
-  1.8.7,
-  1.8.6,
-  1.8.5,
-  1.8.4,
-  1.8.3,
-  1.8.2,
-  1.8.1,
-  1.8,
-  1.7.10,
-  1.7.9,
-  1.7.8,
-  1.7.7,
-  1.7.6,
-  1.7.5,
-  1.7.4,
-  1.7.3,
-  1.7.2
   
 Unsupported versions:
-  Under 1.7.2
+  Under 1.9
 
 
 Explanation:
@@ -70,9 +51,7 @@ Unsupported versions - You can not join with these versions at all!
 
 Automatic block replacement - In older versions, when one block is not available the game will replace that block in a way that is only visible to the older client. The experience for people with "Recommended versions" will be completely unchanged. This way is good because no one would have to see the ugly unknown texture block.
 
-Disclaimer:
-In versions under 1.16.5 and especially the ones in the "Not recommended versions" there are many issues with holograms etc. Don't ask for help about these because they will NOT be fixed. Thanks for understanding! 
-
-We can change this at any time!
+Note: If you use any version aside from 1.16.5, we are not responsible for any advantage 1.16.5 players may have against you. Also, no issues will be fixed regarding this policy.
+We reserve the right to change this at any time!
 Changes applied on 𝐉𝐮𝐧𝐞 𝟗, 𝟐𝟎𝟐𝟏.
-Last update: 𝐍𝐨𝐯𝐞𝐦𝐛𝐞𝐫 𝟕, 𝟐𝟎𝟐𝟏.
+Last update: March 19, 2023.
